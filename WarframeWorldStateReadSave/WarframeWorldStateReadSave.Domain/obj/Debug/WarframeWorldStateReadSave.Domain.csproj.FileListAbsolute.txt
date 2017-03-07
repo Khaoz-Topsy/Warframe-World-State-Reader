@@ -1,0 +1,7 @@
+C:\Development\Projects\TestFolder\WarframeWorldStateReadSave\WarframeWorldStateReadSave.Domain\bin\Debug\WarframeWorldStateReadSave.Domain.dll
+C:\Development\Projects\TestFolder\WarframeWorldStateReadSave\WarframeWorldStateReadSave.Domain\bin\Debug\WarframeWorldStateReadSave.Domain.pdb
+C:\Development\Projects\TestFolder\WarframeWorldStateReadSave\WarframeWorldStateReadSave.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Projects\TestFolder\WarframeWorldStateReadSave\WarframeWorldStateReadSave.Domain\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Projects\TestFolder\WarframeWorldStateReadSave\WarframeWorldStateReadSave.Domain\obj\Debug\WarframeWorldStateReadSave.Domain.csprojResolveAssemblyReference.cache
+C:\Development\Projects\TestFolder\WarframeWorldStateReadSave\WarframeWorldStateReadSave.Domain\obj\Debug\WarframeWorldStateReadSave.Domain.dll
+C:\Development\Projects\TestFolder\WarframeWorldStateReadSave\WarframeWorldStateReadSave.Domain\obj\Debug\WarframeWorldStateReadSave.Domain.pdb

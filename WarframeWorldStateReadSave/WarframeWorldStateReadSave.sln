@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeWorldStateReadSave", "WarframeWorldStateReadSave\WarframeWorldStateReadSave.csproj", "{8808C9AC-6CF4-44C7-A27A-C3F4B00069A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeWorldStateReadSave.Domain", "WarframeWorldStateReadSave.Domain\WarframeWorldStateReadSave.Domain.csproj", "{CC5B7482-6076-40A3-A33C-5BE369603349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarframeWorldStateReadSave.Data", "WarframeWorldStateReadSave.Data\WarframeWorldStateReadSave.Data.csproj", "{441D87F8-E4E1-4FEC-A663-2F3DDB044F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8808C9AC-6CF4-44C7-A27A-C3F4B00069A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8808C9AC-6CF4-44C7-A27A-C3F4B00069A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8808C9AC-6CF4-44C7-A27A-C3F4B00069A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8808C9AC-6CF4-44C7-A27A-C3F4B00069A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5B7482-6076-40A3-A33C-5BE369603349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5B7482-6076-40A3-A33C-5BE369603349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5B7482-6076-40A3-A33C-5BE369603349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5B7482-6076-40A3-A33C-5BE369603349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441D87F8-E4E1-4FEC-A663-2F3DDB044F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441D87F8-E4E1-4FEC-A663-2F3DDB044F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441D87F8-E4E1-4FEC-A663-2F3DDB044F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441D87F8-E4E1-4FEC-A663-2F3DDB044F66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
